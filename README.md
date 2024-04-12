@@ -3,10 +3,10 @@
 ## :memo: Descrição
 A Torre de Hanui é um jogo de raciocínio lógico que consiste em 3 pilares e 6 discos. 
 O objetivo é empilhar todos os discos em outro pilar.
-Regras:
-1 - Um disco de maior diâmetro não pode ser colocado em cima de outro de menor diâmetro
-2 - Só pode mover um disco por vez 
-3 - Só é possível mover o disco que tiver no topo de um pilar 
+Regras: <br>
+1 - Um disco de maior diâmetro não pode ser colocado em cima de outro de menor diâmetro <br>
+2 - Só pode mover um disco por vez <br>
+3 - Só é possível mover o disco que tiver no topo de um pilar <br>
 4 - Um disco pode ser colocado em um espaço vazio
 
 ## Funções
